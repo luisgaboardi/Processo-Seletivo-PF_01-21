@@ -1,5 +1,7 @@
 # Processo Seletivo para Estágio na Polícia Federal
 
+<br> ![](Imagens/LogoPF.png) <br>
+
 ## Candidato
 Luís Guilherme Gaboardi Lins
 
@@ -24,9 +26,6 @@ N;Zzzz;99999999;12 <br>
 
 ## Entradas dos dois problemas
 Para uma resolução palpável de ambos os problemas, gerei dois arquivos CSV que servem como entrada para cada questão. Eles podem ser encontrados dentro da pasta do respectivo problema.
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Utilização
 **Linguagem**: Python 3.6.9<br>
@@ -74,3 +73,12 @@ Após o download do repositório, seja via git ou Zip, acesse a pasta:
 
 ## Observações 
 Ambos os problemas podem também ser resolvidos de maneira eficaz utilizando uma tabela Hash, por esse motivo, desenvolvi tanto a solução utilizando Hash como a solução sem. Entretanto, visto que os casos de teste que utilizei são pequenos, dou preferência à solução sem Hash. Caso houvesse a necessidade de escalonamento do problema, utilizaria a solução com Hash.
+
+
+## Screenshots
+
+### Problema 1
+<br> ![](Imagens/Q1.png) <br>
+
+### Problema 2
+<br> ![](Imagens/Q2.png) <br>
