@@ -5,6 +5,9 @@
 ## Candidato
 Luís Guilherme Gaboardi Lins
 
+## Link para o vídeo explicativo
+https://youtu.be/l5iZHNbwZds
+
 ## Sobre 
 A primeira fase do processo seletivo se dará pela resolução e apresentação de duas questões passadas pelos examinadores, a serem resolvidos na linguagem de programação Python, envolvendo estrutura e gestão de dados.
 
