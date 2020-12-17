@@ -21,3 +21,16 @@ for linha in dados_brutos:
 	(idd, nome, tel, idade) = linha.split(';')
 	elemento = [idd,nome,tel,idade]
 	dados.append(elemento)
+
+# Ordendar a lista sendo o nome a chave determinante
+dados.sort(key = lambda x: x[1]) 
+
+# Escrever a resposta em um novo arquivo CSV
+with open('Resposta2.csv', 'w', newline='') as file:
+	writer = csv.writer(file, delimiter=';')
+	writer.writerows(dados)
+
+# Printar a lista resultante no terminal
+print("Resultado:")
+for d in dados:
+	print(d)
